@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Tasnia, and I'm an undergrad student in Urban and Regional Planning at Khulna University of Engineering & Technology (KUET), interested in all things Geographic and Information Systems (GIS) and Spatial analysis.
+- 🔭 I’m currently working on my undergrad thesis project analyzing spatiotemporal urban expansion in Khulna
+- I'm passionate about leveraging technology and data-driven approaches to address urban challenges.
+- 👯 I’m looking to collaborate on projects related to urban planning, environmental sustainability, and technological innovation.
+  - 📫 Let's Connect! Feel free to reach out at tasnianowrin0@gmail.com or explore my work here on GitHub.
+
 <!--
 **tasniadristi/tasniadristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
